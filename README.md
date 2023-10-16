@@ -2,6 +2,8 @@
 
 ## Attributions
 
+Code by John Dagsa.
+
 I used MDN and Stack overflow to get an understanding of what each syntax does,
 and how to use them properly.
 
